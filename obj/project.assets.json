@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Уни\\patterns\\Paint\\Paint.csproj",
+      "projectUniqueName": "C:\\Уни\\patterns\\patterns_paint\\Paint.csproj",
       "projectName": "Paint",
-      "projectPath": "C:\\Уни\\patterns\\Paint\\Paint.csproj",
+      "projectPath": "C:\\Уни\\patterns\\patterns_paint\\Paint.csproj",
       "packagesPath": "C:\\Users\\volk0\\.nuget\\packages\\",
-      "outputPath": "C:\\Уни\\patterns\\Paint\\obj\\",
+      "outputPath": "C:\\Уни\\patterns\\patterns_paint\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
